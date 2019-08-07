@@ -1,2 +1,2 @@
 # klemmlab
-Code depository of the Klemm Lab
+Code repository of the Klemm Lab
